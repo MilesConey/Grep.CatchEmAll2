@@ -9,9 +9,32 @@
 
 
 ### c)
+Section 1
 
+    Beedrill
+    Blastoise
+    Bulbasaur
+    Butterfree
 
+Section 2
 
+    Charizard
+    Charmander
+    Charmeleon
+
+Section 3
+
+    Iversaur
+    Jigglypuff
+    Meowth
+    Pickachu
+
+Section 4
+
+    Pysduck
+    Squirtle
+    Venusaur
+    Wartortle
 
 # Part 2
 ### a)
