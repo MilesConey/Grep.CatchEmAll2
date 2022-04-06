@@ -13,25 +13,46 @@
 
 
 
-
-
-
-
-
-
-
-
-
 # Part 2
 ### a)
 
-
+miles@Zipcoders-MacBook-Pro-2 captured % ls | wc -l
+      15
 
 
 
 
 ### b)
-
+miles@Zipcoders-MacBook-Pro forest % grep beed filescan_00.1 | wc -l
+      40
+miles@Zipcoders-MacBook-Pro forest % grep bulb filescan_00.1 | wc -l
+      30
+miles@Zipcoders-MacBook-Pro forest % grep blas filescan_00.1 | wc -l
+      38
+miles@Zipcoders-MacBook-Pro forest % grep butt filescan_00.1 | wc -l
+      38
+miles@Zipcoders-MacBook-Pro forest % grep mander$ filescan_00.2 | wc -l
+      36
+miles@Zipcoders-MacBook-Pro forest % grep izard$ filescan_00.2 | wc -l
+      40
+miles@Zipcoders-MacBook-Pro forest % grep meleon$ filescan_00.2 | wc -l
+      37
+miles@Zipcoders-MacBook-Pro forest % grep ivys filescan_00.3 | wc -l
+      33
+miles@Zipcoders-MacBook-Pro forest % grep jigg filescan_00.3 | wc -l
+      34
+miles@Zipcoders-MacBook-Pro forest % grep meow filescan_00.3 | wc -l
+      33
+miles@Zipcoders-MacBook-Pro forest % grep pika filescan_00.3 | wc -l
+      40
+miles@Zipcoders-MacBook-Pro forest % grep psy filescan_00.4 | wc -l
+      37
+miles@Zipcoders-MacBook-Pro forest % grep squi filescan_00.4 | wc -l
+      34
+miles@Zipcoders-MacBook-Pro forest % grep venu filescan_00.4 | wc -l
+      32
+miles@Zipcoders-MacBook-Pro forest % grep ortle filescan_00.4 | wc -l
+      37
 
 
 
